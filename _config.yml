@@ -1,13 +1,14 @@
-title: Your awesome title
-email: your-email@example.com
+title: Michael's Awesome Website
+email: micpap25@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welp, you caught me! This is still under construction. I'm not in a rush to finish this, 
+  but I might come back to it sometime. Why don't you grab a cup of coffee and hang out?
+  
+  I might name this something like "stargazer.com" in the future. That has a nice 
+  ring to it, doesn't it?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  micpap25
 
 # Build settings
 theme: minima
