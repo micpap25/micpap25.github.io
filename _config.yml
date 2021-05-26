@@ -1,11 +1,8 @@
-title: Michael's Awesome Website
+title: Michael's Website
 email: micpap25@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welp, you caught me! This is still under construction. I'm not in a rush to finish this, 
-  but I might come back to it sometime. Why don't you grab a cup of coffee and hang out?
-  
-  I might name this something like "stargazer.com" in the future. That has a nice 
-  ring to it, doesn't it?
+  but I might come back to it sometime. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  micpap25
