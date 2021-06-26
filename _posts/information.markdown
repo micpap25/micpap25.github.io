@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Projects and Information"
-categories: Information
+categories: information
 ---
 
 While this site is under construction, you can use the following links to see some of my projects:
