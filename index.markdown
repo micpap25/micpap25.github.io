@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
 ---
 
-## Michael Papadopoulos, Computer Science Student
+
+**Michael Papadopoulos, Computer Science Student**
 
 While this site is under construction, you can use the following links to see some of my projects:
 
